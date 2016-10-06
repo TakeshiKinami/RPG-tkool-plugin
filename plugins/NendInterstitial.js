@@ -91,7 +91,7 @@
                         Nend.showInterstitial(function(e) {
                             if (0 != e)
                             {
-                                alert("Nend Interstitial Show Error : code = " + e);
+//                                alert("Nend Interstitial Show Error : code = " + e);
                             }
                         });
                         break;
